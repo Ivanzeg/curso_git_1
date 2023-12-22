@@ -2,4 +2,8 @@ Testando repo 12
 1. abrir o terminal na pasta 
 2. git status
 3. criar um arquivo
-4. git add .\index.html ou simplesmente git add . //que adiciona tudo. Após isso, 
+4. git add .\teste.txt ou simplesmente git add . //que adiciona tudo. Após isso, 
+git commit .teste.txt -m "Estou enviando uma modificação"
+5. enviando tudo de uma vez git commit -a -m "Enviando várias modificações"
+6. git push
+7. git status
