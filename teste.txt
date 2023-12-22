@@ -7,3 +7,4 @@ git commit .teste.txt -m "Estou enviando uma modificação"
 5. enviando tudo de uma vez git commit -a -m "Enviando várias modificações"
 6. git push
 7. git status
+8. Após mudança no github, após commit change, ir ao VSCode e git pull
