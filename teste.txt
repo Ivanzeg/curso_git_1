@@ -1,1 +1,5 @@
 Testando repo 12
+1. abrir o terminal na pasta 
+2. git status
+3. criar um arquivo
+4. git add .\index.html ou simplesmente git add . //que adiciona tudo. Após isso, 
